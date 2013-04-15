@@ -3,6 +3,6 @@ module Jquery
     VERSION = "2.2.1"
     JQUERY_VERSION = "1.9.1"
     JQUERY_UI_VERSION  = "1.9.2"
-    JQUERY_UJS_VERSION = "aab2251d90afbdfc808d8031312d063b1ccf8f6f"
+    JQUERY_UJS_VERSION = "610dfb8881377598b7e63ab2c152d73aa1d3632f"
   end
 end
